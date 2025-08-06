@@ -1,2 +1,2 @@
 # DeColab
-Policy documents for DeColab mobile app
+Policy documents for DeColab android app
