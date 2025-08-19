@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>DeColab – Skill-Based Game</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; color: #333; }
-    header { background: #2c3e50; color: white; padding: 20px; text-align: center; }
-    section { padding: 40px; max-width: 900px; margin: auto; }
-    h1, h2 { color: #2c3e50; }
-    a { color: #2980b9; text-decoration: none; }
-    footer { background: #ecf0f1; text-align: center; padding: 20px; font-size: 0.9em; }
-  </style>
-</head>
-<body>
-
 <header>
   <h1>DeColab</h1>
   <p>A strategic, skill-based game built on psychology and fair play</p>
@@ -28,9 +12,9 @@
 
   <h2>Policies</h2>
   <ul>
-    <li><a href="[terms.html](https://vishbit001.github.io/DeColab/privacy.html)">Terms and Conditions</a></li>
-    <li><a href="[refund-policy.html](https://vishbit001.github.io/DeColab/refund.html)">Refund and Cancellation Policy</a></li>
-    <li><a href="[privacy.html](https://vishbit001.github.io/DeColab/privacy.html)">Privacy Policy</a></li>
+    <li><a href="https://vishbit001.github.io/DeColab/privacy.html">Terms and Conditions</a></li>
+    <li><a href="https://vishbit001.github.io/DeColab/refund.html">Refund and Cancellation Policy</a></li>
+    <li><a href="https://vishbit001.github.io/DeColab/privacy.html">Privacy Policy</a></li>
   </ul>
 
   <h2>Contact</h2>
