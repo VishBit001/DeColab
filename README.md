@@ -1,6 +1,3 @@
-# DeColab
-Policy documents for DeColab android app
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
