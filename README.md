@@ -12,7 +12,7 @@
 
   <h2>Policies</h2>
   <ul>
-    <li><a href="https://vishbit001.github.io/DeColab/privacy.html">Terms and Conditions</a></li>
+    <li><a href="https://vishbit001.github.io/DeColab/terms.html">Terms and Conditions</a></li>
     <li><a href="https://vishbit001.github.io/DeColab/refund.html">Refund and Cancellation Policy</a></li>
     <li><a href="https://vishbit001.github.io/DeColab/privacy.html">Privacy Policy</a></li>
   </ul>
