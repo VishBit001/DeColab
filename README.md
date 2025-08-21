@@ -8,7 +8,7 @@
   <p>DeColab is a weekly strategy game where users compete using virtual coins. Each wallet resets to 100 coins, and players enter pools to make timed decisions. Winners are determined by a predefined payoff matrix, and the top performer each week receives a ₹1000 Amazon coupon.</p>
 
   <h2>Legal & Compliance</h2>
-  <p>This is a skill-based game and does not constitute gambling under Indian law. No cash withdrawals are supported. PAN details may be required for high-value rewards.</p>
+  <p>This is a skill-based game and does not constitute gambling under Indian law. IT DOES NOT INVOLVE ANY MONEY PAYMENT FROM USERS. No cash withdrawals are supported. PAN details may be required for high-value rewards.</p>
 
   <h2>Policies</h2>
   <ul>
